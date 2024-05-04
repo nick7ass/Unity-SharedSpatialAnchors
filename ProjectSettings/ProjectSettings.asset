@@ -622,8 +622,8 @@ PlayerSettings:
   AndroidTargetDevices: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: /Users/nicklasbourelius/Unity Learn /user.keystore
-  AndroidKeyaliasName: dcdcvt24test
+  AndroidKeystoreName: '{inproject}: user.keystore'
+  AndroidKeyaliasName: onetwothreefourx2
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
   AndroidIsGame: 1
