@@ -1,0 +1,4 @@
+repository "Unity-SharedSpatialAnchors@nicklasb@cloud"
+  path "/"
+    br "/main"
+    co "/main"
